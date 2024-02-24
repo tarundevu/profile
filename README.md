@@ -12,7 +12,7 @@
   <a href="https://java.com/" "> <img src="https://skillicons.dev/icons?i=java&theme=light"/> </a> 
   <a href="https://www.opencv.org" "> <img src="https://skillicons.dev/icons?i=opencv&theme=light"/> </a> 
   <a href="https://www.raspberrypi.com" "> <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark"/> </a> 
-  <a href="https://www.code.visualstudio.com" "> <img src="https://skillicons.dev/icons?i=vscode"/> </a> 
+  <a href="https://code.visualstudio.com" "> <img src="https://skillicons.dev/icons?i=vscode"/> </a> 
   
   
 </p>
