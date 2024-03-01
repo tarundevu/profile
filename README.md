@@ -1,6 +1,6 @@
 <p align="center" > <img src="https://github.com/tarundevu/tarundevu/blob/main/starwarsgif-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+👋+I'm+Tarun+Devu;𑀅𑀲𑁆𑀫𑁆𑀬𑀳𑀁+𑀢𑀭𑀼𑀡+𑀤𑁂𑀯𑀼;Welcome+to+my+profile;𑀲𑁆𑀯𑀸𑀕𑀢𑀁+𑀫𑀫+𑀅𑀭𑁆𑀥𑀫𑀼𑀔𑀮𑁂𑀔𑁆𑀬𑁂;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Tarun+Devu;𑀅𑀲𑁆𑀫𑁆𑀬𑀳𑀁+𑀢𑀭𑀼𑀡+𑀤𑁂𑀯𑀼;Welcome+to+my+profile;𑀲𑁆𑀯𑀸𑀕𑀢𑀁+𑀫𑀫+𑀅𑀭𑁆𑀥𑀫𑀼𑀔𑀮𑁂𑀔𑁆𑀬𑁂;" />
 </h1>
 <h3 align="center">An engineering student interested in robotics</h3>
 
@@ -8,8 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarundevu&label=Profile%20views&color=0e75b6&style=flat" alt="tarundevu" /> </p>
 <p align="center"> <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2M24zMGc1NjVsdmY5d2RseGpvOHRsb3Y1bWF1ODN3M3BqcHI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> </p>
 
+<h2 align="center"> About Me </h2>
+<ul align="left">
+ <li> Graduated with a diploma in Automation and Mechatronics Sytems </li>
+ <li> Live on earth </li>
+ <li> Love to learn about science, technology and engineering </li>  
+ <li> My hobbies include building things, programming, cycling, thinking about how things work </li>
+</ul>
+
 <h2 align="center"> 🔧 Technologies & Tools 🔨 </h2>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.arduino.cc/"> <img src="https://skillicons.dev/icons?i=arduino"/> </a> 
   <a href="https://www.cprogramming.com/" "> <img src="https://skillicons.dev/icons?i=c"/> </a> 
   <a href="https://www.python.org" "> <img src="https://skillicons.dev/icons?i=python"/> </a> 
@@ -17,8 +25,6 @@
   <a href="https://www.opencv.org" "> <img src="https://skillicons.dev/icons?i=opencv&theme=light"/> </a> 
   <a href="https://www.raspberrypi.com" "> <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark"/> </a> 
   <a href="https://code.visualstudio.com" "> <img src="https://skillicons.dev/icons?i=vscode"/> </a> 
-  
-  
 </p>
   
 <h2 align="center"> &#x1f4c8 GitHub Stats &#128200  </h2>
