@@ -10,12 +10,14 @@
 
 <h2 align="center"> About Me </h2>
 <ul align="left">
- <li> Graduated with a diploma in Automation and Mechatronics Sytems </li>
- <li> Live on earth </li>
- <li> Love to learn about science, technology and engineering </li>  
- <li> My hobbies include building things, programming, cycling, thinking about how things work </li>
+ <li> Graduated with a diploma in Automation and Mechatronics Sytems 🎓</li>
+ <li> Live on earth 🌏</li>
+ <li> Love to learn about science, technology and engineering 🔬&#128421;🛠</li>  
+ <li> My hobbies include building things, programming, cycling, thinking about how things work 🛠🖧🚲🤔</li>
 </ul>
-
+<p align="left">
+  <a href="https://sg.linkedin.com/in/tarundevu"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> 
+</p>
 <h2 align="center"> 🔧 Technologies & Tools 🔨 </h2>
 <p align="center"> 
   <a href="https://www.arduino.cc/"> <img src="https://skillicons.dev/icons?i=arduino"/> </a> 
