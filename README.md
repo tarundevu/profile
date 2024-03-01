@@ -5,7 +5,12 @@
 <h3 align="center">An engineering student interested in robotics</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarundevu&label=Profile%20views&color=0e75b6&style=flat" alt="tarundevu" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=tarundevu&label=Profile%20views&color=0e75b6&style=flat" alt="tarundevu" />
+    <img src="https://img.shields.io/github/stars/tarundevu" alt="tarundevu" />  
+    <img src="https://img.shields.io/github/followers/tarundevu" />
+</p>
+
 <p align="center"> <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2M24zMGc1NjVsdmY5d2RseGpvOHRsb3Y1bWF1ODN3M3BqcHI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> </p>
 
 <h2 align="center"> About Me </h2>
